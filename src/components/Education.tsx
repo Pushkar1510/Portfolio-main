@@ -10,9 +10,9 @@ const Education = () => {
 
   const educationData = [
     {
-      degree: "Master of Engineering in Data Science",
-      institution: "University of Technology Sydney",
-      period: "2020 - 2021",
+      degree: "Master of Science in Computer Science",
+      institution: "Boston University",
+      period: "2023 - 2025",
       description: "Specialized in advanced data analytics, machine learning algorithms, and big data technologies.",
       achievements: [
         "Research project on predictive analytics in financial markets",
