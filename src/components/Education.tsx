@@ -20,9 +20,9 @@ const Education = () => {
       ]
     },
     {
-      degree: "Bachelor of Technology in Computer Science",
-      institution: "Vellore Institute of Technology",
-      period: "2016 - 2020",
+      degree: "Bachelor of Technology in Information Technology",
+      institution: "Fr. Conceicao Rodrigues Institute of Technology",
+      period: "2019 - 2023",
       description: "Focused on computer science fundamentals, database systems, and software engineering principles.",
       achievements: [
         "Graduated with First Class Honors",
